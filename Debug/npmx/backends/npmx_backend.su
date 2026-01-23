@@ -1,0 +1,2 @@
+../npmx/backends/npmx_backend.c:36:14:npmx_backend_register_write	32	static
+../npmx/backends/npmx_backend.c:44:14:npmx_backend_register_read	32	static

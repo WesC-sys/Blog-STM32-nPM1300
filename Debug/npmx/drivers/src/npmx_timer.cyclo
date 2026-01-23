@@ -1,0 +1,6 @@
+../npmx/drivers/src/npmx_timer.c:47:21:task_trigger	1
+../npmx/drivers/src/npmx_timer.c:62:16:npmx_timer_get	1
+../npmx/drivers/src/npmx_timer.c:70:14:npmx_timer_task_trigger	1
+../npmx/drivers/src/npmx_timer.c:78:14:npmx_timer_config_set	3
+../npmx/drivers/src/npmx_timer.c:123:14:npmx_timer_config_get	3
+../npmx/drivers/src/npmx_timer.c:161:14:npmx_timer_status_get	2

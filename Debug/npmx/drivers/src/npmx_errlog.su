@@ -1,0 +1,8 @@
+../npmx/drivers/src/npmx_errlog.c:49:21:task_trigger	24	static
+../npmx/drivers/src/npmx_errlog.c:64:17:npmx_errlog_get	16	static
+../npmx/drivers/src/npmx_errlog.c:72:14:npmx_errlog_task_trigger	16	static
+../npmx/drivers/src/npmx_errlog.c:80:14:npmx_errlog_reset_errors_check	32	static
+../npmx/drivers/src/npmx_errlog.c:130:14:npmx_errlog_scratch_set	32	static
+../npmx/drivers/src/npmx_errlog.c:167:14:npmx_errlog_scratch_get	32	static
+../npmx/drivers/src/npmx_errlog.c:198:14:npmx_errlog_boot_timer_enable_set	24	static
+../npmx/drivers/src/npmx_errlog.c:223:14:npmx_errlog_boot_timer_enable_get	24	static

@@ -1,0 +1,7 @@
+../npmx/drivers/src/npmx_common.c:128:14:npmx_callback_to_str	1
+../npmx/drivers/src/npmx_common.c:134:14:npmx_callback_bit_to_str	1
+../npmx/drivers/src/npmx_common.c:141:9:npmx_common_div_round_closest	2
+../npmx/drivers/src/npmx_common.c:148:9:npmx_common_round_get	3
+../npmx/drivers/src/npmx_common.c:168:7:npmx_common_fabs_get	2
+../npmx/drivers/src/npmx_common.c:180:7:npmx_common_exp_get	2
+../npmx/drivers/src/npmx_common.c:192:7:npmx_common_ln_get	1

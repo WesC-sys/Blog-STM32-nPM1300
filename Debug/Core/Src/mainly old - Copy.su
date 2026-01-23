@@ -1,0 +1,11 @@
+../Core/Src/mainly old - Copy.c:54:13:my_npmx_initialization_function	16	static
+../Core/Src/mainly old - Copy.c:106:5:main	16	static
+../Core/Src/mainly old - Copy.c:196:6:SystemClock_Config	88	static
+../Core/Src/mainly old - Copy.c:238:13:MX_I2C1_Init	8	static
+../Core/Src/mainly old - Copy.c:272:13:MX_GPIO_Init	16	static
+../Core/Src/mainly old - Copy.c:288:14:my_i2c_write_function	304	static
+../Core/Src/mainly old - Copy.c:304:14:my_i2c_read_function	40	static
+../Core/Src/mainly old - Copy.c:327:6:StartTask01	24	static
+../Core/Src/mainly old - Copy.c:351:6:StartTask02	16	static
+../Core/Src/mainly old - Copy.c:371:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/mainly old - Copy.c:389:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,4 @@
+../npmx/drivers/src/npmx_led.c:71:14:npmx_led_get	16	static
+../npmx/drivers/src/npmx_led.c:79:14:npmx_led_mode_set	24	static
+../npmx/drivers/src/npmx_led.c:93:14:npmx_led_mode_get	24	static
+../npmx/drivers/src/npmx_led.c:115:14:npmx_led_state_set	24	static

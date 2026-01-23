@@ -1,0 +1,6 @@
+../npmx/drivers/src/npmx_timer.c:47:21:task_trigger	24	static
+../npmx/drivers/src/npmx_timer.c:62:16:npmx_timer_get	16	static
+../npmx/drivers/src/npmx_timer.c:70:14:npmx_timer_task_trigger	16	static
+../npmx/drivers/src/npmx_timer.c:78:14:npmx_timer_config_set	24	static
+../npmx/drivers/src/npmx_timer.c:123:14:npmx_timer_config_get	24	static
+../npmx/drivers/src/npmx_timer.c:161:14:npmx_timer_status_get	24	static

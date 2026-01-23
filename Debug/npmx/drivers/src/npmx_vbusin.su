@@ -1,0 +1,11 @@
+../npmx/drivers/src/npmx_vbusin.c:47:17:npmx_vbusin_get	16	static
+../npmx/drivers/src/npmx_vbusin.c:55:23:npmx_vbusin_current_convert	16	static
+../npmx/drivers/src/npmx_vbusin.c:88:6:npmx_vbusin_current_convert_to_ma	16	static
+../npmx/drivers/src/npmx_vbusin.c:134:20:npmx_vbusin_cc_status_map_to_string	16	static
+../npmx/drivers/src/npmx_vbusin.c:151:14:npmx_vbusin_task_trigger	24	static
+../npmx/drivers/src/npmx_vbusin.c:166:14:npmx_vbusin_current_limit_set	24	static
+../npmx/drivers/src/npmx_vbusin.c:181:14:npmx_vbusin_current_limit_get	24	static
+../npmx/drivers/src/npmx_vbusin.c:203:14:npmx_vbusin_suspend_mode_enable_set	24	static
+../npmx/drivers/src/npmx_vbusin.c:218:14:npmx_vbusin_suspend_mode_enable_get	24	static
+../npmx/drivers/src/npmx_vbusin.c:240:14:npmx_vbusin_cc_status_get	32	static
+../npmx/drivers/src/npmx_vbusin.c:267:14:npmx_vbusin_vbus_status_get	16	static

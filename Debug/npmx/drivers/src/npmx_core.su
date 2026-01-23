@@ -1,0 +1,17 @@
+../npmx/drivers/src/npmx_core.c:51:29:event_callback_get	16	static
+../npmx/drivers/src/npmx_core.c:75:17:event_set_register_get	16	static
+../npmx/drivers/src/npmx_core.c:99:17:event_irq_enable_register_get	16	static
+../npmx/drivers/src/npmx_core.c:111:17:event_irq_disable_register_get	16	static
+../npmx/drivers/src/npmx_core.c:123:17:event_clear_register_get	16	static
+../npmx/drivers/src/npmx_core.c:138:21:event_get	32	static
+../npmx/drivers/src/npmx_core.c:157:21:event_clear	32	static
+../npmx/drivers/src/npmx_core.c:174:21:check_events	32	static
+../npmx/drivers/src/npmx_core.c:214:14:npmx_core_task_trigger	24	static
+../npmx/drivers/src/npmx_core.c:228:14:npmx_core_init	96	static
+../npmx/drivers/src/npmx_core.c:391:6:npmx_core_register_cb	24	static
+../npmx/drivers/src/npmx_core.c:400:6:npmx_core_interrupt	16	static
+../npmx/drivers/src/npmx_core.c:407:14:npmx_core_proc	24	static
+../npmx/drivers/src/npmx_core.c:426:14:npmx_core_event_interrupt_enable	32	static
+../npmx/drivers/src/npmx_core.c:445:14:npmx_core_event_interrupt_disable	32	static
+../npmx/drivers/src/npmx_core.c:464:6:npmx_core_context_set	16	static
+../npmx/drivers/src/npmx_core.c:472:8:npmx_core_context_get	16	static

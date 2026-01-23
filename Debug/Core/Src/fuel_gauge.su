@@ -1,0 +1,6 @@
+../Core/Src/fuel_gauge.c:24:10:getDeltatimeTicks	24	static
+../Core/Src/fuel_gauge.c:35:12:read_pmic	64	static
+../Core/Src/fuel_gauge.c:67:12:process_vbus_state	32	static
+../Core/Src/fuel_gauge.c:87:12:process_charger_state	32	static
+../Core/Src/fuel_gauge.c:119:5:fuel_gauge_init	80	static
+../Core/Src/fuel_gauge.c:182:5:fuel_gauge_update	128	static

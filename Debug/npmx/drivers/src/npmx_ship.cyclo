@@ -1,0 +1,10 @@
+../npmx/drivers/src/npmx_ship.c:46:21:task_trigger	1
+../npmx/drivers/src/npmx_ship.c:61:15:npmx_ship_get	1
+../npmx/drivers/src/npmx_ship.c:69:18:npmx_ship_time_convert	15
+../npmx/drivers/src/npmx_ship.c:94:6:npmx_ship_time_convert_to_ms	9
+../npmx/drivers/src/npmx_ship.c:128:14:npmx_ship_task_trigger	1
+../npmx/drivers/src/npmx_ship.c:136:14:npmx_ship_config_set	3
+../npmx/drivers/src/npmx_ship.c:163:14:npmx_ship_config_get	2
+../npmx/drivers/src/npmx_ship.c:190:14:npmx_ship_gpio_status_check	2
+../npmx/drivers/src/npmx_ship.c:214:14:npmx_ship_reset_config_set	4
+../npmx/drivers/src/npmx_ship.c:244:14:npmx_ship_reset_config_get	2
